@@ -1,0 +1,132 @@
+{
+  "card": [
+    {
+      "id": "1",
+      "photo": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/EyEZlt0rTNeOafVHQ880",
+      "title": "Net Ninja Pro",
+      "article": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, consequuntur!",
+      "author": {
+        "authImg": "https://z-p3-scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-1/345900968_200948956126207_5079733383007615786_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFizIzfHCDhnXhMDK7njmrgOGw9vDXznzQ4bD28NfOfNJ1t-mEFLGMfGqv_ct2Hnp_IIMw9rn2Xrq6v-QJRVzJr&_nc_ohc=PIctkB9Zty0AX-TFd7h&_nc_ht=z-p3-scontent.fpnh5-1.fna&oh=00_AfDzRgfXd2H9pw0d4VyOLbO1QwWgFMhoYEwp6IQVXxVehA&oe=65C3AA6E",
+        "authName": "Braya"
+      }
+    },
+    {
+      "id": "2",
+      "photo": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/udBWVhonTqaqxSCuhYQ4",
+      "title": "TypeScript MasterClass",
+      "article": "TypeScript is a strongly typed programming language built on top of JavaScript, with additional features added in - primarily the ability to add types to values It provides a lot of benefits that JavaScript alone does not, including good error feedback during development, better autocompletion & code hints and the ability to make custom data types.In this Masterclass course you'll learn how to confidently master TypeScript from the ground up - and use it in your own projects.",
+      "author": {
+        "authImg": "https://z-p3-scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-1/345900968_200948956126207_5079733383007615786_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFizIzfHCDhnXhMDK7njmrgOGw9vDXznzQ4bD28NfOfNJ1t-mEFLGMfGqv_ct2Hnp_IIMw9rn2Xrq6v-QJRVzJr&_nc_ohc=PIctkB9Zty0AX-TFd7h&_nc_ht=z-p3-scontent.fpnh5-1.fna&oh=00_AfDzRgfXd2H9pw0d4VyOLbO1QwWgFMhoYEwp6IQVXxVehA&oe=65C3AA6E",
+        "authName": "Braya"
+      }
+    },
+    {
+      "id": "3",
+      "photo": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/7MVIX9OROW0SlX8tD7SX",
+      "title": "Nextjs 13: The next level",
+      "article": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, consequuntur!",
+      "author": {
+        "authImg": "https://z-p3-scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-1/345900968_200948956126207_5079733383007615786_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFizIzfHCDhnXhMDK7njmrgOGw9vDXznzQ4bD28NfOfNJ1t-mEFLGMfGqv_ct2Hnp_IIMw9rn2Xrq6v-QJRVzJr&_nc_ohc=PIctkB9Zty0AX-TFd7h&_nc_ht=z-p3-scontent.fpnh5-1.fna&oh=00_AfDzRgfXd2H9pw0d4VyOLbO1QwWgFMhoYEwp6IQVXxVehA&oe=65C3AA6E",
+        "authName": "Braya"
+      }
+    },
+    {
+      "id": "4",
+      "photo": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/1uCgossTRXqBImbdOwxo",
+      "title": "HTML & CSS Crash Course",
+      "article": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, consequuntur!",
+      "author": {
+        "authImg": "https://z-p3-scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-1/345900968_200948956126207_5079733383007615786_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFizIzfHCDhnXhMDK7njmrgOGw9vDXznzQ4bD28NfOfNJ1t-mEFLGMfGqv_ct2Hnp_IIMw9rn2Xrq6v-QJRVzJr&_nc_ohc=PIctkB9Zty0AX-TFd7h&_nc_ht=z-p3-scontent.fpnh5-1.fna&oh=00_AfDzRgfXd2H9pw0d4VyOLbO1QwWgFMhoYEwp6IQVXxVehA&oe=65C3AA6E",
+        "authName": "Braya"
+      }
+    },
+    {
+        "id": "5",
+        "photo": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/9fPHe00Tn2lKlIoHwmZI",
+        "title": "NodeJs Crash Course",
+        "article": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, consequuntur!",
+        "author": {
+          "authImg": "https://z-p3-scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-1/345900968_200948956126207_5079733383007615786_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFizIzfHCDhnXhMDK7njmrgOGw9vDXznzQ4bD28NfOfNJ1t-mEFLGMfGqv_ct2Hnp_IIMw9rn2Xrq6v-QJRVzJr&_nc_ohc=PIctkB9Zty0AX-TFd7h&_nc_ht=z-p3-scontent.fpnh5-1.fna&oh=00_AfDzRgfXd2H9pw0d4VyOLbO1QwWgFMhoYEwp6IQVXxVehA&oe=65C3AA6E",
+          "authName": "Braya"
+        }
+    },
+    {
+        "id": "6",
+        "photo": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/a4c401ff02bf4267930ac936360759e1/b7223d0e9d7246a98597ee39019f0de0",
+        "title": "MongoDB Tutorial",
+        "article": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, consequuntur!",
+        "author": {
+          "authImg": "https://z-p3-scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-1/345900968_200948956126207_5079733383007615786_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFizIzfHCDhnXhMDK7njmrgOGw9vDXznzQ4bD28NfOfNJ1t-mEFLGMfGqv_ct2Hnp_IIMw9rn2Xrq6v-QJRVzJr&_nc_ohc=PIctkB9Zty0AX-TFd7h&_nc_ht=z-p3-scontent.fpnh5-1.fna&oh=00_AfDzRgfXd2H9pw0d4VyOLbO1QwWgFMhoYEwp6IQVXxVehA&oe=65C3AA6E",
+          "authName": "Braya"
+        }
+    },
+    {
+        "id": "7",
+        "photo": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/gkbrrt3Rpatokd4fzujV",
+        "title": "Nuxt 3 & Pinia",
+        "article": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, consequuntur!",
+        "author": {
+          "authImg": "https://z-p3-scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-1/345900968_200948956126207_5079733383007615786_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFizIzfHCDhnXhMDK7njmrgOGw9vDXznzQ4bD28NfOfNJ1t-mEFLGMfGqv_ct2Hnp_IIMw9rn2Xrq6v-QJRVzJr&_nc_ohc=PIctkB9Zty0AX-TFd7h&_nc_ht=z-p3-scontent.fpnh5-1.fna&oh=00_AfDzRgfXd2H9pw0d4VyOLbO1QwWgFMhoYEwp6IQVXxVehA&oe=65C3AA6E",
+          "authName": "Braya"
+        }
+    },
+    {
+        "id": "8",
+        "photo": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/zFfXpVHETZeTQmySgOZq",
+        "title": "Vue3 & Firebase",
+        "article": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, consequuntur!",
+        "author": {
+          "authImg": "https://z-p3-scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-1/345900968_200948956126207_5079733383007615786_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFizIzfHCDhnXhMDK7njmrgOGw9vDXznzQ4bD28NfOfNJ1t-mEFLGMfGqv_ct2Hnp_IIMw9rn2Xrq6v-QJRVzJr&_nc_ohc=PIctkB9Zty0AX-TFd7h&_nc_ht=z-p3-scontent.fpnh5-1.fna&oh=00_AfDzRgfXd2H9pw0d4VyOLbO1QwWgFMhoYEwp6IQVXxVehA&oe=65C3AA6E",
+          "authName": "Braya"
+        }
+    },
+    {
+        "id": "9",
+        "photo": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/43WVlqaNT92wuBtpx80L",
+        "title": "TailwindCSS Tutorial",
+        "article": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, consequuntur!",
+        "author": {
+          "authImg": "https://z-p3-scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-1/345900968_200948956126207_5079733383007615786_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFizIzfHCDhnXhMDK7njmrgOGw9vDXznzQ4bD28NfOfNJ1t-mEFLGMfGqv_ct2Hnp_IIMw9rn2Xrq6v-QJRVzJr&_nc_ohc=PIctkB9Zty0AX-TFd7h&_nc_ht=z-p3-scontent.fpnh5-1.fna&oh=00_AfDzRgfXd2H9pw0d4VyOLbO1QwWgFMhoYEwp6IQVXxVehA&oe=65C3AA6E",
+          "authName": "Braya"
+        }
+    }
+  ],
+  "Viewer": [
+    {
+      "id": 1,
+      "profile": "https://res.cloudinary.com/net-ninja/image/upload/v1616313565/Net%20Ninja%20Pro/testimonials/ph-av_mzdbkx.png",
+      "name": "I am one",
+      "comment": "Such a great course"
+    },
+    {
+      "id": 2,
+      "profile": "https://res.cloudinary.com/net-ninja/image/upload/v1616313565/Net%20Ninja%20Pro/testimonials/ph-av_mzdbkx.png",
+      "name": "I am two",
+      "comment": "Such a great course"
+    },
+    {
+      "id": 3,
+      "profile": "https://res.cloudinary.com/net-ninja/image/upload/v1616313565/Net%20Ninja%20Pro/testimonials/ph-av_mzdbkx.png",
+      "name": "I am three",
+      "comment": "Such a great course"
+    },
+    {
+      "id": 4,
+      "profile": "https://res.cloudinary.com/net-ninja/image/upload/v1616313565/Net%20Ninja%20Pro/testimonials/ph-av_mzdbkx.png",
+      "name": "I am four",
+      "comment": "Such a great course"
+    },
+    {
+      "id": 5,
+      "profile": "https://res.cloudinary.com/net-ninja/image/upload/v1616313565/Net%20Ninja%20Pro/testimonials/ph-av_mzdbkx.png",
+      "name": "I am five",
+      "comment": "Such a great course"
+    },
+    {
+      "id": 6,
+      "profile": "https://res.cloudinary.com/net-ninja/image/upload/v1616313565/Net%20Ninja%20Pro/testimonials/ph-av_mzdbkx.png",
+      "name": "I am six",
+      "comment": "Such a great course"
+    }
+  ]
+}
